@@ -17,7 +17,7 @@ android {
     ext.fixVersion = project.property('app.version.fix') as Integer
 
     defaultConfig {
-        applicationId "ua.sprotyv.smsbroadcaster"
+        applicationId "ua.selin.smsbroadcaster"
 
         versionCode majorVersion * 1_000_000_000 + minorVersion * 1_000_000 + fixVersion
         versionName "$majorVersion.$minorVersion.$fixVersion"

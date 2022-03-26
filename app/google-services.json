@@ -7,17 +7,17 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:291772369447:android:72f8527c9a19596776dc02",
+        "mobilesdk_app_id": "1:291772369447:android:bcf61a3fdea3d56776dc02",
         "android_client_info": {
-          "package_name": "ua.sprotyv.smsbroadcaster"
+          "package_name": "ua.selin.smsbroadcaster"
         }
       },
       "oauth_client": [
         {
-          "client_id": "291772369447-6oosncfra5rsh0mriqfet1ll67v41iti.apps.googleusercontent.com",
+          "client_id": "291772369447-ol56eipa9amib70j6anmf2qe13eb1ffb.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "ua.sprotyv.smsbroadcaster",
+            "package_name": "ua.selin.smsbroadcaster",
             "certificate_hash": "a538da3d5383c985c6182d610fac3bfcbd7a5be5"
           }
         },
@@ -44,17 +44,17 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:291772369447:android:2745e6a28a6d27c676dc02",
+        "mobilesdk_app_id": "1:291772369447:android:d196b374a352725e76dc02",
         "android_client_info": {
-          "package_name": "ua.sprotyv.smsbroadcaster.development"
+          "package_name": "ua.selin.smsbroadcaster.development"
         }
       },
       "oauth_client": [
         {
-          "client_id": "291772369447-91kl8hgraj5uv0vu2935q9ncm72dl5p1.apps.googleusercontent.com",
+          "client_id": "291772369447-8oq8n1qpc4jrof6ue28cppgfb08hu1cf.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "ua.sprotyv.smsbroadcaster.development",
+            "package_name": "ua.selin.smsbroadcaster.development",
             "certificate_hash": "79d88d564d910fe7157ac875e09de43101c7eba2"
           }
         },
